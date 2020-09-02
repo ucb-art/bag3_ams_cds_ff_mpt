@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BAG_framework/.idea/BAG_framework.iml" filepath="$PROJECT_DIR$/BAG_framework/.idea/BAG_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aib_ams/.idea/aib_ams.iml" filepath="$PROJECT_DIR$/aib_ams/.idea/aib_ams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bag3_ams_cds_ff_mpt.iml" filepath="$PROJECT_DIR$/.idea/bag3_ams_cds_ff_mpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bag3_analog/.idea/bag3_analog.iml" filepath="$PROJECT_DIR$/bag3_analog/.idea/bag3_analog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bag3_digital/.idea/bag3_digital.iml" filepath="$PROJECT_DIR$/bag3_digital/.idea/bag3_digital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bag3_testbenches/bag3_liberty/.idea/bag3_liberty.iml" filepath="$PROJECT_DIR$/bag3_testbenches/bag3_liberty/.idea/bag3_liberty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bag3_testbenches/.idea/bag3_testbenches.iml" filepath="$PROJECT_DIR$/bag3_testbenches/.idea/bag3_testbenches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cds_ff_mpt/.idea/cds_ff_mpt.iml" filepath="$PROJECT_DIR$/cds_ff_mpt/.idea/cds_ff_mpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xbase_bcad/.idea/xbase_bcad.iml" filepath="$PROJECT_DIR$/xbase_bcad/.idea/xbase_bcad.iml" />
+    </modules>
+  </component>
+</project>
