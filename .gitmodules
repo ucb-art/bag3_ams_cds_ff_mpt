@@ -3,10 +3,10 @@
 	url = git@github.com:bluecheetah/xbase.git
 [submodule "BAG_framework"]
 	path = BAG_framework
-	url = git@github.com:bluecheetah/bag.git
+	url = git@github.com:ucb-art/bag.git
 [submodule "cds_ff_mpt"]
 	path = cds_ff_mpt
-	url = git@github.com:bluecheetah/cds_ff_mpt.git
+	url = git@github.com:ucb-art/cds_ff_mpt-bag3.git
 [submodule "aib_ams"]
 	path = aib_ams
 	url = git@github.com:bluecheetah/aib_ams.git
