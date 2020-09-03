@@ -1,6 +1,6 @@
 [submodule "xbase_bcad"]
 	path = xbase_bcad
-	url = git@github.com:bluecheetah/xbase.git
+	url = git@github.com:ucb-art/xbase.git
 [submodule "BAG_framework"]
 	path = BAG_framework
 	url = git@github.com:ucb-art/bag.git
