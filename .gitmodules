@@ -9,19 +9,19 @@
 	url = git@github.com:ucb-art/cds_ff_mpt-bag3.git
 [submodule "aib_ams"]
 	path = aib_ams
-	url = git@github.com:bluecheetah/aib_ams.git
+	url = git@github.com:ucb-art/aib_ams.git
 [submodule "bag3_analog"]
 	path = bag3_analog
-	url = git@github.com:bluecheetah/bag3_analog.git
+	url = git@github.com:ucb-art/bag3_analog.git
 [submodule "bag3_digital"]
 	path = bag3_digital
-	url = git@github.com:bluecheetah/bag3_digital.git
+	url = git@github.com:ucb-art/bag3_digital.git
 [submodule "bag3_testbenches"]
 	path = bag3_testbenches
-	url = git@github.com:bluecheetah/bag3_testbenches.git
+	url = git@github.com:ucb-art/bag3_testbenches.git
 [submodule "data/bag3_digital"]
 	path = data/bag3_digital
-	url = git@github.com:bluecheetah/bag3_digital_data_cds_ff_mpt.git
+	url = git@github.com:ucb-art/bag3_digital_data_cds_ff_mpt.git
 [submodule "data/aib_ams"]
 	path = data/aib_ams
-	url = git@github.com:bluecheetah/aib_ams_data_cds_ff_mpt.git
+	url = git@github.com:ucb-art/aib_ams_data_cds_ff_mpt.git
