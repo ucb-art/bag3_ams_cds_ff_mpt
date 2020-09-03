@@ -12,6 +12,7 @@
     <orderEntry type="module" module-name="bag3_liberty" />
     <orderEntry type="module" module-name="cds_ff_mpt" />
     <orderEntry type="module" module-name="xbase_bcad" />
+    <orderEntry type="module" module-name="bag3_liberty" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
