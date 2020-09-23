@@ -9,7 +9,6 @@
     <orderEntry type="module" module-name="bag3_analog" />
     <orderEntry type="module" module-name="bag3_digital" />
     <orderEntry type="module" module-name="bag3_testbenches" />
-    <orderEntry type="module" module-name="bag3_liberty" />
     <orderEntry type="module" module-name="cds_ff_mpt" />
     <orderEntry type="module" module-name="xbase_bcad" />
     <orderEntry type="module" module-name="bag3_liberty" />
