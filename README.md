@@ -6,9 +6,9 @@
 3. Start bash
 4. Clone this repository and `cd` into it
 5. `git submodule update --init --recursive`
-5. Create a new cds.lib as follows: `echo "INCLUDE cds.lib.core" >> cds.lib`
-6. `source .bashrc`
-7. `cd BAG_framework/pybag`
-8. `./run_test.sh`
-9. `cd ../..`
-10. Now you can follow the examples in INSTRUCTIONS.md.
+6. Create a new cds.lib as follows: `echo "INCLUDE cds.lib.core" >> cds.lib`
+7. `source .bashrc`
+8. `cd BAG_framework/pybag`
+9. `./run_test.sh`
+10. `cd ../..`
+11. Now you can follow the examples in INSTRUCTIONS.md.
