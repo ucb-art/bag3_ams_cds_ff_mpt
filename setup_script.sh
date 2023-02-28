@@ -46,6 +46,15 @@ ln -s BAG_framework/run_scripts/start_bag_ICADV12d3.il start_bag.il
 ln -s BAG_framework/run_scripts/virt_server.sh virt_server.sh
 ln -s BAG_framework/run_scripts/run_bag.sh run_bag.sh
 ln -s BAG_framework/run_scripts/start_bag.sh start_bag.sh
+ln -s BAG_framework/run_scripts/gen_cell.sh .
+ln -s BAG_framework/run_scripts/sim_cell.sh .
+ln -s BAG_framework/run_scripts/meas_cell.sh .
+ln -s BAG_framework/run_scripts/run_em_cell.sh .
+ln -s BAG_framework/run_scripts/extract_cell.sh .
+ln -s BAG_framework/run_scripts/dsn_cell.sh .
+
+ln -s ${BAG_TEMP_DIR}/simulations/gen_outputs gen_outputs_scratch
+ln -s ${BAG_TEMP_DIR}/pvs_run pvs_run
 
 # setup cadence shared library linkage
 mkdir cadence_libs
