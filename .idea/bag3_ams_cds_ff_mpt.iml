@@ -3,6 +3,15 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.abstract" />
+      <excludeFolder url="file://$MODULE_DIR$/.cadence" />
+      <excludeFolder url="file://$MODULE_DIR$/cadence_libs" />
+      <excludeFolder url="file://$MODULE_DIR$/gen_libs" />
+      <excludeFolder url="file://$MODULE_DIR$/gen_outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/gen_outputs_scratch" />
+      <excludeFolder url="file://$MODULE_DIR$/pvs_run" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="BAG_framework" />
     <orderEntry type="module" module-name="aib_ams" />
