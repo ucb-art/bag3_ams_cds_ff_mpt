@@ -25,3 +25,6 @@
 [submodule "data/aib_ams"]
 	path = data/aib_ams
 	url = git@github.com:ucb-art/aib_ams_data_cds_ff_mpt.git
+[submodule "bag3_magnetics"]
+	path = bag3_magnetics
+	url = git@github.com:ucb-art/bag3_magnetics.git
