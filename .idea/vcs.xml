@@ -12,6 +12,7 @@
     <mapping directory="$PROJECT_DIR$/aib_ams" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bag3_analog" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bag3_digital" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bag3_magnetics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bag3_testbenches" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bag3_testbenches/bag3_liberty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/cds_ff_mpt" vcs="Git" />

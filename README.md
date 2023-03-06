@@ -24,6 +24,9 @@ For typical operation (i.e., with a BAG workspace that is already set up and no 
 1. Log into to any compute server that supports RHEL7
 2. Start bash
 3. `cd` into the workspace
-4. `source .bashrc`
-5. Launch `virtuoso`.
-6. Run BAG commands from the bash shell
+4. Update all submodules by running `git submodule update --init --recursive`
+5. `source .bashrc`
+6. Launch `virtuoso`.
+    - If you have a previously opened Virtuoso session in this workspace, run `load("start_bag.il")` in the CIW. This opens up the SKILL interface for BAG to import/export schematics and layouts.
+    - A newly launched Virtuoso session will have this enabled already because `start_bag.il` is loaded in the `.cdsinit`.
+7. Run BAG commands from the bash shell
