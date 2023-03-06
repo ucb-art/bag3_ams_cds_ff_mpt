@@ -28,3 +28,6 @@
 [submodule "bag3_magnetics"]
 	path = bag3_magnetics
 	url = git@github.com:ucb-art/bag3_magnetics.git
+[submodule "data/bag3_testbenches"]
+	path = data/bag3_testbenches
+	url = git@github.com:ucb-art/bag3_testbenches_data_cds_ff_mpt.git
