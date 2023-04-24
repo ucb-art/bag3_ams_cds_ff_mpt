@@ -1,1 +1,0 @@
-cds_ff_mpt/workspace_setup/.cshrc

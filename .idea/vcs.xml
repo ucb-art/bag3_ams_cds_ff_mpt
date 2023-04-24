@@ -18,6 +18,7 @@
     <mapping directory="$PROJECT_DIR$/cds_ff_mpt" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data/aib_ams" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data/bag3_digital" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/xbase_bcad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data/bag3_testbenches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xbase" vcs="Git" />
   </component>
 </project>

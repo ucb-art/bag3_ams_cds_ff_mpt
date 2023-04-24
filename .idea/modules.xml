@@ -11,7 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/bag3_magnetics/.idea/bag3_magnetics.iml" filepath="$PROJECT_DIR$/bag3_magnetics/.idea/bag3_magnetics.iml" />
       <module fileurl="file://$PROJECT_DIR$/bag3_testbenches/.idea/bag3_testbenches.iml" filepath="$PROJECT_DIR$/bag3_testbenches/.idea/bag3_testbenches.iml" />
       <module fileurl="file://$PROJECT_DIR$/cds_ff_mpt/.idea/cds_ff_mpt.iml" filepath="$PROJECT_DIR$/cds_ff_mpt/.idea/cds_ff_mpt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xbase_bcad/.idea/xbase_bcad.iml" filepath="$PROJECT_DIR$/xbase_bcad/.idea/xbase_bcad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xbase/.idea/xbase.iml" filepath="$PROJECT_DIR$/xbase/.idea/xbase.iml" />
     </modules>
   </component>
 </project>

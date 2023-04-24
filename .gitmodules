@@ -1,5 +1,5 @@
-[submodule "xbase_bcad"]
-	path = xbase_bcad
+[submodule "xbase"]
+	path = xbase
 	url = git@github.com:ucb-art/xbase.git
 [submodule "BAG_framework"]
 	path = BAG_framework

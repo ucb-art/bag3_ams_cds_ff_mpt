@@ -33,8 +33,6 @@ ln -s cds_ff_mpt/workspace_setup/bag_config.yaml bag_config.yaml
 ln -s cds_ff_mpt/workspace_setup/bag_submodules.yaml bag_submodules.yaml
 ln -s cds_ff_mpt/workspace_setup/.bashrc .bashrc
 ln -s cds_ff_mpt/workspace_setup/.bashrc_bag .bashrc_bag
-ln -s cds_ff_mpt/workspace_setup/.cshrc .cshrc
-ln -s cds_ff_mpt/workspace_setup/.cshrc_bag .cshrc_bag
 ln -s cds_ff_mpt/workspace_setup/.cdsenv .cdsenv
 ln -s cds_ff_mpt/workspace_setup/.cdsinit .cdsinit
 ln -s cds_ff_mpt/workspace_setup/cds.lib.core cds.lib.core
